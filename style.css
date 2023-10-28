@@ -539,6 +539,17 @@ a.button:hover {
     background-repeat: no-repeat;
     background-position: 0% 50%;
 }
+#slideshow .five {
+    background-image: url("https://thinkers-pvt.github.io/thinkers/WhatsApp Image 2023-10-23 at 12.58.09 AM.jpeg");
+    background-repeat: no-repeat;
+    background-position: 0% 50%;
+}
+
+#slideshow .zero {
+    background-image: url("https://thinkers-pvt.github.io/project_logo/vtp_4.jpeg");
+    background-repeat: no-repeat;
+    background-position: 0% 50%;
+}
 
 /* FORM ELEMENTS */
 input {
@@ -791,6 +802,12 @@ input {
         background-position: 50% 300%;
     }
     #slideshow .four {
+        background-position: -40% -80%;
+    }
+	  #slideshow .five {
+        background-position: -40% -80%;
+    }
+	  #slideshow .zero {
         background-position: -40% -80%;
     }
 
