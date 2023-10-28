@@ -1,4 +1,4 @@
-/* LOGIN - MAIN.JS - dp 2017 */
+
 
 // LOGIN TABS
 $(function() {
@@ -89,11 +89,11 @@ $(function() {
 	});
 });
 
-// DISABLE SUBMIT FOR DEMO
-$(function() {
-	$('.button').on('click', function(event) {
-		$(this).stop();
-		event.preventDefault();
-		return false;
-	});
-});
+// // DISABLE SUBMIT FOR DEMO
+// $(function() {
+// 	$('.button').on('click', function(event) {
+// 		$(this).stop();
+// 		event.preventDefault();
+// 		return false;
+// 	});
+// });
